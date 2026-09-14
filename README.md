@@ -13,7 +13,6 @@ A simple and responsive URL Shortener built using the **MERN stack**. It convert
 - 🔄 Redirect shortened URLs to the original URL
 - 📱 Generate QR codes for shortened URLs
 - ⬇️ Download QR codes
-- 📊 Track the number of clicks on shortened URLs
 - 📱 Responsive and clean user interface
 
 ---

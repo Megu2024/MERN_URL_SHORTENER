@@ -46,7 +46,7 @@ A simple and responsive URL Shortener built using the **MERN stack**. It convert
 ## 📁 Project Structure
 
 ```text
-MERN-URL-SHORTENER/
+MERN_URL_SHORTENER/
 │
 ├── backend/
 │   ├── models/
